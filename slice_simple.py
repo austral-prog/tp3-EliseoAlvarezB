@@ -5,5 +5,5 @@ def slice_simple():
     print(mins[2:5])
     print(mins)
  
-slice_simple()
+
 
