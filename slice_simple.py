@@ -4,6 +4,6 @@ def slice_simple():
     print(mins[0:3])
     print(mins[2:5])
     print(mins)
- 
+slice_simple()
 
 
