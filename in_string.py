@@ -6,6 +6,5 @@ def check_vowels():
     print("Contiene i: " , 'i' in nombre)
     print("Contiene o: " , 'o' in nombre)
     print("Contiene u: " , 'u' in nombre)
-check_vowels()
 
 
