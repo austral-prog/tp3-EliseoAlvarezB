@@ -1,7 +1,5 @@
 def slice_simple():
     texto = "Awesome"
-    mins = texto.lower()
-    print(mins[0:3])
-    print(mins[2:5])
-    print(mins)
-
+    print(texto.lower()[0:3])
+    print(texto.lower()[2:5])
+    print(texto.lower())
